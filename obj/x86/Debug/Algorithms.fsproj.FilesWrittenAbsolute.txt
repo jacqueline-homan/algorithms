@@ -1,0 +1,13 @@
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/Algorithms.exe.mdb
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/Algorithms.exe
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/obj/x86/Debug/Algorithms.exe
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/obj/x86/Debug/Algorithms.exe.mdb
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/Newtonsoft.Json.dll
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/System.IO.dll
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/System.Runtime.dll
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/System.Threading.Tasks.dll
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/System.Net.Http.dll
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/System.Net.Http.Primitives.dll
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/System.Net.Http.WebRequest.dll
+/Users/admin/Projects/F-Sharp/Algorithms/Algorithms/bin/Debug/System.Net.Http.Extensions.dll
