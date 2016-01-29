@@ -27,6 +27,7 @@ let LeapYear y =
 
 LeapYear 2016 
 
+// Using named pattern-matching to match up blood donors/dna evidence
 let compatible bloodtype =
     match bloodtype with
     | "O-" -> printfn "%s is compatible with O-" bloodtype
